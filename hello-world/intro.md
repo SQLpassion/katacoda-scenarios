@@ -1,1 +1,1 @@
-Welcome to the first Katacoda Scenario of SQLpassion!
+Welcome to the first Katacoda Scenario of SQLpassion e.U.!
